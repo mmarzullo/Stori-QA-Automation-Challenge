@@ -26,6 +26,6 @@ This repository holds of the automated tests for https://rahulshettyacademy.com/
 
 ** For a specific test you can use:
 ```sh
-        dotnet test --verbosity:d --filter DisplayName="Empty Email"
+        dotnet test --verbosity:d --filter DisplayName="Task 5"
 ```
 - You can check the [dotnet test](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test).
