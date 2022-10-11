@@ -12,18 +12,19 @@ This repository holds of the automated tests for https://rahulshettyacademy.com/
 1. Launch a Web Application from Visual Studio, making sure to select the desired Solution:
 2. You can run the tests from the Test Explorer sale.
 3. You can change the browser on the file Config/Enviroment.json
-4. Alternatively, you can open the Command Prompt (CMD), navigate to the solution folder and run these commands:
+
+* Alternatively, you can open the Command Prompt (CMD), navigate to the solution folder and run these commands:
 ```sh
         dotnet test --verbosity:d
 ```
 
-For a specific browser you should use:
+** For a specific browser you should use:
 ```sh
         SET DriverType=Firefox
         dotnet test --verbosity:d
 ```
 
-For a specific test you can use:
+** For a specific test you can use:
 ```sh
         dotnet test --verbosity:d --filter DisplayName="Empty Email"
 ```
