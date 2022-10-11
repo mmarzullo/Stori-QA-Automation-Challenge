@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="fc5c7b0a-6032-4c4d-bf2a-cc1c0e4dae71" name="matia@MATIAS 2022-10-10 23:41:41" runUser="MATIAS\matia" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-10-10T23:41:41.0750129-03:00" queuing="2022-10-10T23:41:41.0750132-03:00" start="2022-10-10T23:41:33.2021059-03:00" finish="2022-10-10T23:42:52.3679954-03:00" />
+  <TestSettings name="default" id="dea0c213-1b13-4f79-8a6b-5342c39c26e7">
+    <Deployment runDeploymentRoot="matia_MATIAS_2022-10-10_23_41_41" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="9a48dbf7-a242-49f9-9f80-dad1f97df49d" testId="0d9e64f6-0826-65e2-4e17-e46336305d98" testName="Task 9" computerName="MATIAS" duration="00:00:12.7112934" startTime="2022-10-10T23:42:31.2782424-03:00" endTime="2022-10-10T23:42:31.2782426-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a48dbf7-a242-49f9-9f80-dad1f97df49d">
+      <Output>
+        <StdOut>- Text:&#xD;
+His mentorship program is most after in the software testing community with long waiting period.&#xD;
+- Odd indexes Text:&#xD;
+i etrhppormi otatri h otaetsigcmuiywt ogwiigpro.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4200d955-45fe-422e-a276-85753234bae0" testId="5ddf9f5b-3784-17a9-1042-61a87a1fb83e" testName="Task 3" computerName="MATIAS" duration="00:00:06.6989834" startTime="2022-10-10T23:41:57.4955782-03:00" endTime="2022-10-10T23:41:57.4955785-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4200d955-45fe-422e-a276-85753234bae0" />
+    <UnitTestResult executionId="4280c805-587a-41dc-be9d-c8c629ef07a6" testId="305ba874-5650-c93b-0625-cb26ee663e23" testName="Task 8" computerName="MATIAS" duration="00:00:07.1124969" startTime="2022-10-10T23:41:41.0280521-03:00" endTime="2022-10-10T23:41:41.0280862-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4280c805-587a-41dc-be9d-c8c629ef07a6">
+      <Output>
+        <StdOut>- Engineer: Alex&#xD;
+- Engineer: Jack</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="48df6252-6001-46a2-8b40-89f18ecc3f77" testId="e9de5f52-3a9b-a41a-7d8b-687fa239a5bc" testName="Task 4" computerName="MATIAS" duration="00:00:11.2554242" startTime="2022-10-10T23:42:18.5666834-03:00" endTime="2022-10-10T23:42:18.5666837-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="48df6252-6001-46a2-8b40-89f18ecc3f77" />
+    <UnitTestResult executionId="18e9d476-69a8-4d89-a3b0-17ec475eed19" testId="e54690bf-61b9-dc56-1a1a-4b9e4d5b08c5" testName="Task 1" computerName="MATIAS" duration="00:00:04.8866116" startTime="2022-10-10T23:42:02.3822998-03:00" endTime="2022-10-10T23:42:02.3823000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="18e9d476-69a8-4d89-a3b0-17ec475eed19" />
+    <UnitTestResult executionId="46a5ef56-b1a1-473e-89a7-b97729048788" testId="af72ab49-779f-0ef6-cec4-3588e37dead9" testName="Task 2" computerName="MATIAS" duration="00:00:04.9286062" startTime="2022-10-10T23:42:07.3110612-03:00" endTime="2022-10-10T23:42:07.3110615-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46a5ef56-b1a1-473e-89a7-b97729048788" />
+    <UnitTestResult executionId="20e59475-fab8-43ea-be0b-278e26207ad3" testId="17db72af-1830-2b65-2588-f589feb65f6d" testName="Task 7" computerName="MATIAS" duration="00:00:04.9735540" startTime="2022-10-10T23:41:50.7964511-03:00" endTime="2022-10-10T23:41:50.7964514-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20e59475-fab8-43ea-be0b-278e26207ad3">
+      <Output>
+        <StdOut>- Number of courses: 4&#xD;
+- Course names:&#xD;
+Learn SQL in Practical + Database Testing from Scratch&#xD;
+Learn JMETER from Scratch - (Performance + Load) Testing Tool&#xD;
+QA Expert Course :Software Testing + Bugzilla + SQL + Agile&#xD;
+Master Selenium Automation in simple Python Language</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="68292bfb-ad8d-4944-b922-82546fd42ee5" testId="9efa374d-3d1f-1277-ede1-9004665aaed7" testName="Task 6" computerName="MATIAS" duration="00:00:04.7956531" startTime="2022-10-10T23:41:45.8227766-03:00" endTime="2022-10-10T23:41:45.8227769-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68292bfb-ad8d-4944-b922-82546fd42ee5">
+      <Output>
+        <StdOut>Alert: Hello Stori Card, share this practice page and share your knowledge&#xD;
+Alert: Hello Stori Card, Are you sure you want to confirm?</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b0d42783-8c95-4379-bd19-425fdc591212" testId="062a9dc0-5a4e-5a0d-6a57-8e8cda78ebbe" testName="Task 5" computerName="MATIAS" duration="00:00:20.9575901" startTime="2022-10-10T23:42:52.2359264-03:00" endTime="2022-10-10T23:42:52.2359268-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0d42783-8c95-4379-bd19-425fdc591212">
+      <Output>
+        <StdOut>The picture is saved on C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\Task 5.png</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Task 7" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="17db72af-1830-2b65-2588-f589feb65f6d">
+      <Execution id="20e59475-fab8-43ea-be0b-278e26207ad3" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task7" />
+    </UnitTest>
+    <UnitTest name="Task 8" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="305ba874-5650-c93b-0625-cb26ee663e23">
+      <Execution id="4280c805-587a-41dc-be9d-c8c629ef07a6" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task8" />
+    </UnitTest>
+    <UnitTest name="Task 6" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="9efa374d-3d1f-1277-ede1-9004665aaed7">
+      <Execution id="68292bfb-ad8d-4944-b922-82546fd42ee5" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task6" />
+    </UnitTest>
+    <UnitTest name="Task 9" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="0d9e64f6-0826-65e2-4e17-e46336305d98">
+      <Execution id="9a48dbf7-a242-49f9-9f80-dad1f97df49d" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task9" />
+    </UnitTest>
+    <UnitTest name="Task 5" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="062a9dc0-5a4e-5a0d-6a57-8e8cda78ebbe">
+      <Execution id="b0d42783-8c95-4379-bd19-425fdc591212" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task5" />
+    </UnitTest>
+    <UnitTest name="Task 2" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="af72ab49-779f-0ef6-cec4-3588e37dead9">
+      <Execution id="46a5ef56-b1a1-473e-89a7-b97729048788" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task2" />
+    </UnitTest>
+    <UnitTest name="Task 1" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="e54690bf-61b9-dc56-1a1a-4b9e4d5b08c5">
+      <Execution id="18e9d476-69a8-4d89-a3b0-17ec475eed19" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task1" />
+    </UnitTest>
+    <UnitTest name="Task 4" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="e9de5f52-3a9b-a41a-7d8b-687fa239a5bc">
+      <Execution id="48df6252-6001-46a2-8b40-89f18ecc3f77" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task4" />
+    </UnitTest>
+    <UnitTest name="Task 3" storage="c:\users\matia\documents\automation\stori-qa-automation-challenge\storitest\bin\debug\net6.0\storitest.dll" id="5ddf9f5b-3784-17a9-1042-61a87a1fb83e">
+      <Execution id="4200d955-45fe-422e-a276-85753234bae0" />
+      <TestMethod codeBase="C:\Users\matia\Documents\automation\Stori-QA-Automation-Challenge\StoriTest\bin\Debug\net6.0\StoriTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="StoriTest.StoriTest" name="Task3" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="0d9e64f6-0826-65e2-4e17-e46336305d98" executionId="9a48dbf7-a242-49f9-9f80-dad1f97df49d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5ddf9f5b-3784-17a9-1042-61a87a1fb83e" executionId="4200d955-45fe-422e-a276-85753234bae0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="305ba874-5650-c93b-0625-cb26ee663e23" executionId="4280c805-587a-41dc-be9d-c8c629ef07a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e9de5f52-3a9b-a41a-7d8b-687fa239a5bc" executionId="48df6252-6001-46a2-8b40-89f18ecc3f77" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e54690bf-61b9-dc56-1a1a-4b9e4d5b08c5" executionId="18e9d476-69a8-4d89-a3b0-17ec475eed19" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="af72ab49-779f-0ef6-cec4-3588e37dead9" executionId="46a5ef56-b1a1-473e-89a7-b97729048788" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="17db72af-1830-2b65-2588-f589feb65f6d" executionId="20e59475-fab8-43ea-be0b-278e26207ad3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9efa374d-3d1f-1277-ede1-9004665aaed7" executionId="68292bfb-ad8d-4944-b922-82546fd42ee5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="062a9dc0-5a4e-5a0d-6a57-8e8cda78ebbe" executionId="b0d42783-8c95-4379-bd19-425fdc591212" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.5+1caef2f33e (64-bit .NET 6.0.9)&#xD;
+[xUnit.net 00:00:00.31]   Discovering: StoriTest&#xD;
+[xUnit.net 00:00:00.34]   Discovered:  StoriTest&#xD;
+[xUnit.net 00:00:00.34]   Starting:    StoriTest&#xD;
+[xUnit.net 00:01:18.71]   Finished:    StoriTest&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
